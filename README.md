@@ -1,5 +1,5 @@
 <img src="https://github.com/WatsonDataPlatform/ALY-3285/blob/master/images/logo.png">
-#ALY-3285 - Introduction to Machine Learning w/ Apache Spark
+##ALY-3285 - Introduction to Machine Learning w/ Apache Spark
 
 Date/Time: Monday, October 24, 2016, 12:30pm - 3:00pm
 Place: Las Vegas, Mandalay Bay - Bayside F - 14

@@ -1,6 +1,7 @@
-#World of Watson, October 2016 - Hand on Lab ALY-3285
+#World of Watson
+#Hand on Lab ALY-3285
 
-##Session Name: ALY-3285 Introduction to Machine Learning w/ Apache Spark
+##ALY-3285 Introduction to Machine Learning w/ Apache Spark
 
 Date/Time: Monday, October 24, 2016, 12:30pm - 3:00pm
 Place: Las Vegas, Mandalay Bay - Bayside F - 14

@@ -1,10 +1,9 @@
-#Hands on Lab - World of Watson, October 2016
+#World of Watson, October 2016 - Hand on Lab ALY-3285
 
-Session Name: From Lab to Production: Scale Up Your Data Science with IBM Data Science Experience
+Session Name: ALY-3285 Introduction to Machine Learning w/ Apache Spark
 
-Date: October 25, 2016, 4:00pm - 6:30pm
-
-Place: Las Vegas, Mandalay Bay - Bayside F - 13
+Date/Time: Monday, October 24, 2016, 12:30pm - 3:00pm
+Place: Las Vegas, Mandalay Bay - Bayside F - 14
 
 # Instructions:
 

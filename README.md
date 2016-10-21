@@ -1,3 +1,5 @@
+<img src="https://github.com/WatsonDataPlatform/ALY-3285/blob/master/images/logo.png">
+
 #World of Watson
 #Hand on Lab ALY-3285
 

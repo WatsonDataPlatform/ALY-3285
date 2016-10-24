@@ -55,7 +55,15 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 14
 
  >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512"/>
 
- #Step 3. Create a new notebook.
+#Step 3. Download Repository.
+
+ 1. Download Repository from github https://github.com/WatsonDataPlatform/ALY-3285 to local directory.
+ 
+ >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/Zip.png"/>
+ 
+ 2. Unzip repo zip files locally.
+
+#Step 4. Create a new notebook.
 
  1.  From the your project page, on the "Overview" tab click "add notebook"
 
@@ -63,10 +71,10 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 14
  
  >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NewNotebook.png"/>
  
- 3. Enter a notbook Name, Description and Select from URL then enter notbook Raw URL, Copy and Paste this URL: https://raw.githubusercontent.com/WatsonDataPlatform/ALY-3285/master/Collaborative-Filtering-Student-LV-With-Hints.ipynb
+ 3. Enter a notbook Name, Description and pick from File, click browse and pick Collaborative-Filtering-Student-LV-With-Hints.ipynb file downloaded. 
 
- >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png" width="512"/>
+ >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NBFF.png" width="512"/>
 
  3. Click on Create Notebook
 
-#Step 4. Follow Instructions in Notbook.
+#Step 5. Follow Instructions in Notbook.

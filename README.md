@@ -61,7 +61,7 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 14
  
  >  <img src="https://github.com/WatsonDataPlatform/ALY-3285/blob/master/images/Zip2.png"/>
  
- 2. Unzip repo zip files locally.
+ 2. Unzip files locally.
 
 #Step 4. Create a new notebook.
 

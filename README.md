@@ -63,7 +63,7 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 14
  
  >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NewNotebook.png"/>
  
- 3. Enter a notbook Name, Description and Select from URL then enter notbook Raw URL, Copy and Paste this URL: https://raw.githubusercontent.com/IBMDataScience/WOW2016/master/VehicleAccidentLab.ipynb
+ 3. Enter a notbook Name, Description and Select from URL then enter notbook Raw URL, Copy and Paste this URL: https://raw.githubusercontent.com/WatsonDataPlatform/ALY-3285/master/Collaborative-Filtering-Student-LV-With-Hints.ipynb
 
  >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png" width="512"/>
 

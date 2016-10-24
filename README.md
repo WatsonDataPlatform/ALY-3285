@@ -59,7 +59,7 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 14
 
  1. Download Repository from github https://github.com/WatsonDataPlatform/ALY-3285 to local directory.
  
- >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/Zip.png"/>
+ >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/Zip2.png"/>
  
  2. Unzip repo zip files locally.
 

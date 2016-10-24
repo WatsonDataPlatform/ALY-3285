@@ -73,7 +73,7 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 14
  
  3. Enter a notbook Name, Description and pick from File, click browse and pick Collaborative-Filtering-Student-LV-With-Hints.ipynb file downloaded. 
 
- >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NBFF.png" width="512"/>
+ >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NBFF2.png" width="512"/>
 
  3. Click on Create Notebook
 
